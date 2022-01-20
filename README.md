@@ -4,3 +4,4 @@ If you have any open-sourced datasets for civil engineering applications and wan
 
 ## Crack Detection
 1. EdmCrack600: https://github.com/mqp2259/EdmCrack600
+2. CrackForest: https://github.com/cuilimeng/CrackForest-dataset.git
